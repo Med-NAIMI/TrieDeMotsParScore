@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.exe.config
+C:\Users\PC\source\repos\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.exe
+C:\Users\PC\source\repos\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.pdb
+C:\Users\PC\source\repos\ProblemSolving\ProblemSolving\obj\Debug\TrieDeMotParScore.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.exe
+C:\Users\PC\source\repos\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.pdb
+F:\Utilisateur\PC\PC\source\repos\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.exe.config
+F:\Utilisateur\PC\PC\source\repos\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.exe
+F:\Utilisateur\PC\PC\source\repos\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.pdb
+F:\Utilisateur\PC\PC\source\repos\ProblemSolving\ProblemSolving\obj\Debug\TrieDeMotParScore.csproj.CoreCompileInputs.cache
+F:\Utilisateur\PC\PC\source\repos\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.exe
+F:\Utilisateur\PC\PC\source\repos\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.pdb

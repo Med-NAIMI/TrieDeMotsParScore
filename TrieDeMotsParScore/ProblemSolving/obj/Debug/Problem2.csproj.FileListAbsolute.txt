@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.exe.config
+C:\Users\PC\source\repos\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.exe
+C:\Users\PC\source\repos\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.pdb
+C:\Users\PC\source\repos\ProblemSolving\ProblemSolving\obj\Debug\Problem2.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ProblemSolving\ProblemSolving\obj\Debug\Problem2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.exe
+C:\Users\PC\source\repos\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrieDeMotParScore", "ProblemSolving\TrieDeMotParScore.csproj", "{82B0D96B-E439-4470-BF18-29F3D099ED8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82B0D96B-E439-4470-BF18-29F3D099ED8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B0D96B-E439-4470-BF18-29F3D099ED8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B0D96B-E439-4470-BF18-29F3D099ED8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B0D96B-E439-4470-BF18-29F3D099ED8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46B950D2-86B9-4B3E-8627-2E3A577A4841}
+	EndGlobalSection
+EndGlobal
